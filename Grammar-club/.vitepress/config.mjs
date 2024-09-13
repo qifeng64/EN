@@ -36,5 +36,5 @@ export default defineConfig({
     // outDir: "../dist",
 
     // github
-    base: "/EN/Grammar-club",
+    base: "/EN/",
 });
