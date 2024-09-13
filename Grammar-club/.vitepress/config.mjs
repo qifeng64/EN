@@ -21,7 +21,7 @@ export default defineConfig({
             },
         ],
 
-        socialLinks: [{ icon: "github", link: "https://github.com/qifeng64/EN" }],
+        socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
     },
     vite: {
         // dev mode: auto open browser
